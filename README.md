@@ -1,5 +1,5 @@
 # BillSplit
-Based partly on #twostraws and partly on WWDC19 video
+Based partly on @twostraws and partly on WWDC19 video
 
 A Watch app using the digital crown to enter the variables 
 
